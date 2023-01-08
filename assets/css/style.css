@@ -106,7 +106,7 @@ body {
 #card-piglets {
     /* margin: 40px; */
     position: relative;
-    max-width: 25rem;
+    max-width: 21rem;
     max-height: 25rem;
     /* box-shadow: 0 40px 60px -6px black; */
     cursor: pointer;
@@ -139,8 +139,8 @@ body {
 #card-perch {
     /* margin: 40px; */
     position: relative;
-    max-width: 30rem;
-    max-height: 30rem;
+    max-width: 28rem;
+    max-height: 28rem;
     /* box-shadow: 0 40px 60px -6px black; */
     cursor: pointer;
     box-shadow: 0px 5px 10px #252525;
@@ -150,8 +150,8 @@ body {
 #card-tree {
     /* margin: 40px; */
     position: relative;
-    max-width: 30rem;
-    max-height: 65rem;
+    max-width: 28rem;
+    max-height: 28rem;
     /* box-shadow: 0 40px 60px -6px black; */
     cursor: pointer;
     box-shadow: 0px 5px 10px #252525;
@@ -172,7 +172,7 @@ body {
 #card-cup {
     /* margin: 40px; */
     position: relative;
-    max-width: 25rem;
+    max-width: 30rem;
     max-height: 25rem;
     /* box-shadow: 0 40px 60px -6px black; */
     cursor: pointer;
@@ -183,8 +183,8 @@ body {
 #card-ship {
     /* margin: 40px; */
     position: relative;
-    max-width: 16rem;
-    max-height: 28rem;
+    max-width: 20rem;
+    max-height: 35rem;
     /* box-shadow: 0 40px 60px -6px black; */
     cursor: pointer;
     box-shadow: 0px 5px 10px #252525;
@@ -201,3 +201,234 @@ body {
     box-shadow: 0px 5px 10px #252525;
     border-radius: 10px;
 }
+
+#card-angel {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 30rem;
+    max-height: 30rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-glob {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 25rem;
+    max-height: 27rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-iron {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 15rem;
+    max-height: 15rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-lamp {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 20rem;
+    max-height: 35rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-robin {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 45rem;
+    max-height: 10rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-trinity {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 35rem;
+    max-height: 12rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-trinity-1 {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 30rem;
+    max-height: 30rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-necklace {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 30rem;
+    max-height: 30rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-necklace-1 {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 30rem;
+    max-height: 30rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-earrings {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 35rem;
+    max-height: 30rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-earrings-1 {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 30rem;
+    max-height: 40rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-candlestick {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 25rem;
+    max-height: 25rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-table {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 25rem;
+    max-height: 25rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-suntrap {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 25rem;
+    max-height: 25rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-christmas-decoration {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 32rem;
+    max-height: 35rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-christmas-tree {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 25rem;
+    max-height: 35rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-rabit {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 25rem;
+    max-height: 35rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-photoframe {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 25rem;
+    max-height: 35rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-rose-1 {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 30rem;
+    max-height: 30rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+#card-vineglass {
+    /* margin: 40px; */
+    position: relative;
+    max-width: 15rem;
+    max-height: 30rem;
+    /* box-shadow: 0 40px 60px -6px black; */
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+}
+
+/* #card-punchglass {
+    margin: 40px;
+    position: relative;
+    max-width: 14rem;
+    max-height: 24rem;
+    box-shadow: 0 40px 60px -6px black;
+    cursor: pointer;
+    box-shadow: 0px 5px 10px #252525;
+    border-radius: 10px;
+} */
